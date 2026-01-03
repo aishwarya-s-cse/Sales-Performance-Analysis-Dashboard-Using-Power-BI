@@ -11,6 +11,6 @@ This repository contains a Power BI dashboard designed to analyze retail sales a
 
 
 # Tools Used:
-Power BI Desktop: For report authoring and dashboard design.
-Power Query: For data cleaning and transformation (ETL).
-DAX (Data Analysis Expressions): For creating calculated measures and KPIs.
+• Power BI Desktop: For report authoring and dashboard design.
+• Power Query: For data cleaning and transformation (ETL).
+• DAX (Data Analysis Expressions): For creating calculated measures and KPIs.
